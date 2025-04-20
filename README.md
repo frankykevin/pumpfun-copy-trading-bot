@@ -37,4 +37,4 @@ A Pumpfun Copy Trading Bot on Solana automatically tracks and mimics the trades 
 ```
 
 # 👤 Author
-### Telegram: [Frankykevin](https://t.me/frankykevin)   
+### Telegram: [@frankiekevin](https://t.me/frankykevin)   
