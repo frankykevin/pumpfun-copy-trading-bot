@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 export const heliusPOST = async (uri: string, data: any) => {
-    const returnData = await axios.post(`https://api.helius.xyz/v0/token-metadata?api-key=80e81ffd-0711-42b9-afac-e64d099b279e`, data)
+    const returnData = await axios.post(`https://api.helius.xyz/v0/token-metadata?api-key=80e81ffd-0711-23ha-afac-e64d099b279e`, data)
     return returnData.data
 }
 
